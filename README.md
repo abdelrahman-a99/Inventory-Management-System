@@ -1,6 +1,6 @@
-# Spare Parts Management System
+# Inventory Management System
 
-The Spare Parts Management System is a software application designed to manage inventory and supplier information for spare parts.
+The Inventory Management System is a software application designed to manage inventory and supplier information for spare parts.
 It provides functionalities for adding, searching, modifying, and deleting spare parts and suppliers, as well as managing user interactions and analyzing time complexities of different data structures.
 
 ## Getting Started
@@ -8,7 +8,7 @@ It provides functionalities for adding, searching, modifying, and deleting spare
 To get a copy of the project, you can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/spare-parts-management.git
+git clone https://github.com/your-username/Inventory-Management-System.git
 ```
 
 ## Dependencies
