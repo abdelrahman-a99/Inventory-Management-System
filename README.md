@@ -8,7 +8,7 @@ It provides functionalities for adding, searching, modifying, and deleting spare
 To get a copy of the project, you can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/Inventory-Management-System.git
+git clone https://github.com/abdelrahman-a99/Inventory-Management-System.git
 ```
 
 ## Dependencies
